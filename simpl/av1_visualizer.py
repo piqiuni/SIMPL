@@ -142,3 +142,4 @@ class Visualizer():
 
         plt.tight_layout()
         plt.show()
+        # plt.savefig('output_demo.png')
